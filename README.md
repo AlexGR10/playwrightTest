@@ -26,4 +26,4 @@ Este repositorio contiene un conjunto de pruebas automatizadas utilizando [Playw
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/AlexGR10/playwrightTest
